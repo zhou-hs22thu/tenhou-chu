@@ -1,6 +1,7 @@
 {
   "ver":1.0,
   "se":{
+    "9":{"url":"https://raw.githubusercontent.com/zhou-hs22thu/tenhou-chu/main/tenhou-chu/act_babei_84.mp3"},
     "25":{"url":"https://raw.githubusercontent.com/zhou-hs22thu/tenhou-chu/main/tenhou-chu/act_pon_92.mp3"},
     "26":{"url":"https://raw.githubusercontent.com/zhou-hs22thu/tenhou-chu/main/tenhou-chu/act_pon_92.mp3"},
     "27":{"url":"https://raw.githubusercontent.com/zhou-hs22thu/tenhou-chu/main/tenhou-chu/act_kan_93.mp3"},
@@ -14,4 +15,5 @@
     "35":{"url":"https://raw.githubusercontent.com/zhou-hs22thu/tenhou-chu/main/tenhou-chu/act_tumo_92.mp3"},
     "36":{"url":"https://raw.githubusercontent.com/zhou-hs22thu/tenhou-chu/main/tenhou-chu/act_tumo_92.mp3"},
   }
+
 }
